@@ -1,0 +1,23 @@
+.gradle/
+build/
+bin/
+out/
+target/
+*.class
+*.log
+
+# IDEs
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docs / apresentações (não versionar)
+docs/
+*.pptx
+*.pdf

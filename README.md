@@ -1,3 +1,5 @@
+# java_unex_api
+
 # Dedê Eventos API
 
 API Java para gerenciamento de usuários, organizadores e eventos, implementada com JDBC puro, MySQL e HikariCP.
@@ -80,4 +82,3 @@ Criar evento:
   "active": true
 }
 ```
-# java_unex_api
